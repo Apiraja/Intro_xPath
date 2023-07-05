@@ -1,7 +1,4 @@
 # Tutoriais
-Github: https://youtu.be/cFgAEJdoYO8
-
-Cadastro de sites: https://youtu.be/q2n6GNkcuLE
 
 Introdução xPath: https://youtu.be/hB1BdqHLXT0
 
