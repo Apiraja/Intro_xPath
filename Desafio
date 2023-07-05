@@ -1,0 +1,16 @@
+Capturar as variáveis abaixo do site https://agostinholeiloes.com.br/ utilizando xPath, a resposta deve ser no formato da resposta do título.
+
+Título: $x("//*[@id='content']//h4[2]")
+Data 01:
+Data 02:
+Preço 01:
+Preço 02:
+Descrição:
+Endereço: 
+Link do Edital:
+Link da Imagem Principal:
+
+Sugestão de link para buscar a informação https://agostinholeiloes.com.br/item/2301/detalhes?page=1
+
+Para executar a tarefa, eu sugiro que leiam primeiro a Intro_xPath, depois assistam os tutoriais e por fim utilizem o arquivo com as principais funções para auxiliar na execução.
+
